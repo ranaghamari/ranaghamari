@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rana Ghamari
-- 👀 I’m interested in Psychiatric Genetics
-- 🌱 I’m currently learning Mendelian Randomization
+- 👀 I’m interested in Psychiatric Genetics and Imaging-genetics
+- 🌱 I’m currently learning Mendelian Randomization and Python programming language
 - 💞️ I’m looking to collaborate on Genetic association studies in Psychiatric Genetics and Mendelian Randomization
 - 📫 How to reach me ghamarirana@gmail.com
 - 😄 Pronouns: ...
